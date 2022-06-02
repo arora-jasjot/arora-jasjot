@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasjot Singh</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **C++ & DSA**
 
 - 👨‍💻 My Portflio Site [https://arora-jasjot.netlify.app)
 
